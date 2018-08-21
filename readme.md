@@ -11,6 +11,14 @@ ReactJS, Sass, Webpack
     yarn run build:prod
     yarn test
 
+    --
+
+    yarn add chalk
+    yarn add chalk --dev
+    yarn install
+    yarn install --dev    
+    yarn install --production
+
 # Git Commands
 
 git init - Create a new git repo
@@ -36,3 +44,8 @@ heroku login
 heroku create name
 git remote
 git remote -v
+git add .
+git commit -m ""
+git push 
+git push heroku master
+heroku open
