@@ -1,3 +1,16 @@
+# Front end
+ReactJS, Sass, Webpack
+
+# Back end
+ReactJS, Sass, Webpack
+
+#yarn commands
+
+    yarn run dev-server
+    yarn run build:dev
+    yarn run build:prod
+    yarn test
+
 # Git Commands
 
 git init - Create a new git repo
@@ -12,3 +25,8 @@ ssh-add ~/.ssh/id_rsa
 ssh -T git@github.com
 git remtote add origin git@github.com:morgansegura/expensify-app.git
 git remote -v
+
+
+# Production Webpack
+
+
