@@ -10,6 +10,7 @@ ReactJS, Sass, Webpack
     yarn run build:dev
     yarn run build:prod
     yarn test
+    yarn start / yarn run start
 
     --
 
