@@ -50,3 +50,10 @@ git commit -m ""
 git push 
 git push heroku master
 heroku open
+
+--
+
+heroku config
+heroku config KEY: value // set variable
+heroku config:unset KEY // unset variables
+
