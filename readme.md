@@ -56,4 +56,5 @@ heroku open
 heroku config
 heroku config KEY: value // set variable
 heroku config:unset KEY // unset variables
+heroku config:set // multiple vars
 
